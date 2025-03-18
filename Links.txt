@@ -6,3 +6,7 @@ https://raw.githubusercontent.com/microsoft/sql-server-samples/refs/heads/master
 https://learn.microsoft.com/en-us/sql/t-sql/language-elements/raiserror-transact-sql?view=sql-server-ver16#syntax
 
 https://learn.microsoft.com/en-us/sql/relational-databases/stored-procedures/create-a-stored-procedure?view=sql-server-ver16
+
+https://learn.microsoft.com/en-us/sql/t-sql/language-elements/declare-cursor-transact-sql?view=sql-server-ver16
+
+https://github.com/gayat19/17Mar2025.git
