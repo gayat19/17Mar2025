@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day3\\clinicsolution\\clinicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day3\\clinicsolution\\clinicapp\\interfaces\\idoctoradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\interfaces\\idoctoradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day3\\clinicsolution\\clinicapp\\interfaces\\icommonadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\interfaces\\icommonadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day3\\clinicsolution\\clinicapp\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day3\\clinicsolution\\clinicapp\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day3\\clinicsolution\\clinicapp\\interfaces\\iadminwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\interfaces\\iadminwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D292AE7E-5468-41D7-B108-BA43F432D3BE}|ClinicAppTest\\ClinicAppTest.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day3\\clinicsolution\\clinicapptest\\doctorservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D292AE7E-5468-41D7-B108-BA43F432D3BE}|ClinicAppTest\\ClinicAppTest.csproj|solutionrelative:clinicapptest\\doctorservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day3\\clinicsolution\\clinicapp\\interfaces\\idoctorauthenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\interfaces\\idoctorauthenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day3\\clinicsolution\\clinicapp\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day3\\clinicsolution\\clinicapp\\services\\doctorservicev1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\services\\doctorservicev1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day3\\clinicsolution\\clinicapp\\exceptions\\colectionemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\exceptions\\colectionemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D292AE7E-5468-41D7-B108-BA43F432D3BE}|ClinicAppTest\\ClinicAppTest.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day3\\clinicsolution\\clinicapptest\\adminservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D292AE7E-5468-41D7-B108-BA43F432D3BE}|ClinicAppTest\\ClinicAppTest.csproj|solutionrelative:clinicapptest\\adminservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day3\\clinicsolution\\clinicapp\\exceptions\\nosuchentityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C4B43A-96B3-4A3D-A38C-ACD0017581E2}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\exceptions\\nosuchentityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Services\\AdminService.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Services\\AdminService.cs",
+              "RelativeToolTip": "ClinicApp\\Services\\AdminService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:27:28.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommonAdmin.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Interfaces\\ICommonAdmin.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Interfaces\\ICommonAdmin.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Interfaces\\ICommonAdmin.cs",
+              "RelativeToolTip": "ClinicApp\\Interfaces\\ICommonAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:25:55.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDoctorAdmin.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Interfaces\\IDoctorAdmin.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Interfaces\\IDoctorAdmin.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Interfaces\\IDoctorAdmin.cs",
+              "RelativeToolTip": "ClinicApp\\Interfaces\\IDoctorAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:25:06.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorServiceTest.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicAppTest\\DoctorServiceTest.cs",
+              "RelativeDocumentMoniker": "ClinicAppTest\\DoctorServiceTest.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicAppTest\\DoctorServiceTest.cs",
+              "RelativeToolTip": "ClinicAppTest\\DoctorServiceTest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:17:47.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAdminWork.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Interfaces\\IAdminWork.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Interfaces\\IAdminWork.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Interfaces\\IAdminWork.cs",
+              "RelativeToolTip": "ClinicApp\\Interfaces\\IAdminWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:19:23.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Services\\DoctorService.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Services\\DoctorService.cs",
+              "RelativeToolTip": "ClinicApp\\Services\\DoctorService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAA4wEoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:20:21.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Program.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Program.cs",
+              "RelativeToolTip": "ClinicApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswM4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:15:28.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorServiceV1.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Services\\DoctorServiceV1.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Services\\DoctorServiceV1.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Services\\DoctorServiceV1.cs",
+              "RelativeToolTip": "ClinicApp\\Services\\DoctorServiceV1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:17:04.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDoctorAuthenticate.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Interfaces\\IDoctorAuthenticate.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Interfaces\\IDoctorAuthenticate.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Interfaces\\IDoctorAuthenticate.cs",
+              "RelativeToolTip": "ClinicApp\\Interfaces\\IDoctorAuthenticate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:18:34.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\Doctor.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Models\\Doctor.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\Doctor.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAmwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:16:20.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ColectionEmptyException.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Exceptions\\ColectionEmptyException.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Exceptions\\ColectionEmptyException.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Exceptions\\ColectionEmptyException.cs",
+              "RelativeToolTip": "ClinicApp\\Exceptions\\ColectionEmptyException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:06:46.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminServiceTest.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicAppTest\\AdminServiceTest.cs",
+              "RelativeDocumentMoniker": "ClinicAppTest\\AdminServiceTest.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicAppTest\\AdminServiceTest.cs",
+              "RelativeToolTip": "ClinicAppTest\\AdminServiceTest.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:52:49.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NoSuchEntityException.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Exceptions\\NoSuchEntityException.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Exceptions\\NoSuchEntityException.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day3\\ClinicSolution\\ClinicApp\\Exceptions\\NoSuchEntityException.cs",
+              "RelativeToolTip": "ClinicApp\\Exceptions\\NoSuchEntityException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:13:48.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

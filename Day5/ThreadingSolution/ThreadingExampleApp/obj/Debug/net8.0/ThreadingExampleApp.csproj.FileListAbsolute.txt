@@ -1,0 +1,15 @@
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day5\ThreadingSolution\ThreadingExampleApp\obj\Debug\net8.0\ThreadingExampleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day5\ThreadingSolution\ThreadingExampleApp\obj\Debug\net8.0\ThreadingExampleApp.AssemblyInfoInputs.cache
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day5\ThreadingSolution\ThreadingExampleApp\obj\Debug\net8.0\ThreadingExampleApp.AssemblyInfo.cs
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day5\ThreadingSolution\ThreadingExampleApp\obj\Debug\net8.0\ThreadingExampleApp.csproj.CoreCompileInputs.cache
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day5\ThreadingSolution\ThreadingExampleApp\obj\Debug\net8.0\ThreadingExampleApp.sourcelink.json
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day5\ThreadingSolution\ThreadingExampleApp\bin\Debug\net8.0\ThreadingExampleApp.exe
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day5\ThreadingSolution\ThreadingExampleApp\bin\Debug\net8.0\ThreadingExampleApp.deps.json
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day5\ThreadingSolution\ThreadingExampleApp\bin\Debug\net8.0\ThreadingExampleApp.runtimeconfig.json
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day5\ThreadingSolution\ThreadingExampleApp\bin\Debug\net8.0\ThreadingExampleApp.dll
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day5\ThreadingSolution\ThreadingExampleApp\bin\Debug\net8.0\ThreadingExampleApp.pdb
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day5\ThreadingSolution\ThreadingExampleApp\obj\Debug\net8.0\ThreadingExampleApp.dll
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day5\ThreadingSolution\ThreadingExampleApp\obj\Debug\net8.0\refint\ThreadingExampleApp.dll
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day5\ThreadingSolution\ThreadingExampleApp\obj\Debug\net8.0\ThreadingExampleApp.pdb
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day5\ThreadingSolution\ThreadingExampleApp\obj\Debug\net8.0\ThreadingExampleApp.genruntimeconfig.cache
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day5\ThreadingSolution\ThreadingExampleApp\obj\Debug\net8.0\ref\ThreadingExampleApp.dll

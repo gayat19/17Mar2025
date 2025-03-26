@@ -10,3 +10,5 @@ https://learn.microsoft.com/en-us/sql/relational-databases/stored-procedures/cre
 https://learn.microsoft.com/en-us/sql/t-sql/language-elements/declare-cursor-transact-sql?view=sql-server-ver16
 
 https://github.com/gayat19/17Mar2025.git
+
+https://refactoring.guru/design-patterns/csharp

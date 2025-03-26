@@ -1,0 +1,15 @@
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day3\BaicsLearningSolution\BaicsLearningApp\bin\Debug\net8.0\BaiscLearningApp.exe
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day3\BaicsLearningSolution\BaicsLearningApp\bin\Debug\net8.0\BaiscLearningApp.deps.json
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day3\BaicsLearningSolution\BaicsLearningApp\bin\Debug\net8.0\BaiscLearningApp.runtimeconfig.json
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day3\BaicsLearningSolution\BaicsLearningApp\bin\Debug\net8.0\BaiscLearningApp.dll
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day3\BaicsLearningSolution\BaicsLearningApp\bin\Debug\net8.0\BaiscLearningApp.pdb
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day3\BaicsLearningSolution\BaicsLearningApp\obj\Debug\net8.0\BaiscLearningApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day3\BaicsLearningSolution\BaicsLearningApp\obj\Debug\net8.0\BaiscLearningApp.AssemblyInfoInputs.cache
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day3\BaicsLearningSolution\BaicsLearningApp\obj\Debug\net8.0\BaiscLearningApp.AssemblyInfo.cs
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day3\BaicsLearningSolution\BaicsLearningApp\obj\Debug\net8.0\BaiscLearningApp.csproj.CoreCompileInputs.cache
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day3\BaicsLearningSolution\BaicsLearningApp\obj\Debug\net8.0\BaiscLearningApp.sourcelink.json
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day3\BaicsLearningSolution\BaicsLearningApp\obj\Debug\net8.0\BaiscLearningApp.dll
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day3\BaicsLearningSolution\BaicsLearningApp\obj\Debug\net8.0\refint\BaiscLearningApp.dll
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day3\BaicsLearningSolution\BaicsLearningApp\obj\Debug\net8.0\BaiscLearningApp.pdb
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day3\BaicsLearningSolution\BaicsLearningApp\obj\Debug\net8.0\BaiscLearningApp.genruntimeconfig.cache
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day3\BaicsLearningSolution\BaicsLearningApp\obj\Debug\net8.0\ref\BaiscLearningApp.dll

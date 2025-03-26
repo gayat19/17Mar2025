@@ -1,0 +1,34 @@
+﻿@model IEnumerable<FirstMVCApp.Models.Doctor>
+
+    <a asp-action="AddDoctor">Add Doctor</a>
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Specialization</th>
+    </tr>
+    
+        @foreach (var doctor in Model)
+        {
+            <tr>
+                <td>@doctor.Id</td>
+                <td>@doctor.Name</td>
+                @if(doctor.Specialties!=null)
+                {
+                    <td>
+                        @foreach (var specialization in doctor.Specialties)
+                        {
+                            @specialization
+                        }),
+                    </td>
+                    <td>
+                        <a asp-action="DoctorDetails" asp-route-did="@doctor.Id">Details</a>
+                    </td>
+                }
+                
+            </tr>
+        }
+    <tr>
+  
+</table>
+
