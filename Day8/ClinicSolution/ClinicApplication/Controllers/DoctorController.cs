@@ -1,5 +1,6 @@
 ﻿using ClinicApplication.Interfaces;
 using ClinicApplication.Models;
+using ClinicApplication.Models.ViewModels;
 using ClinicApplication.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,18 +8,19 @@ namespace ClinicApplication.Controllers
 {
     public class DoctorController : Controller
     {
-        private readonly IRepository<int, Doctor> _doctorRepository;
+        private readonly IDoctorService _doctorService;
 
-        public DoctorController(IRepository<int,Doctor> doctorRepository)
+        public DoctorController(IDoctorService doctorService)
         {
-            _doctorRepository = doctorRepository; 
+            _doctorService = doctorService; 
         }
         public async Task<IActionResult> IndexAsync()
         {
             try
             {
-                var doctors = await _doctorRepository.GetAll();
-                return View(doctors);
+                //var doctors = await _doctorRepository.GetAll();
+                //return View(doctors);
+                return View();
             }
             catch (Exception e)
             {
@@ -29,15 +31,18 @@ namespace ClinicApplication.Controllers
         [HttpGet]
         public IActionResult Create()
         {
-            return View(new Doctor());
+            return View(new UserDoctor());
         }
         [HttpPost]
-        public async Task<IActionResult> CreateAsync(Doctor doctor)
+        public async Task<IActionResult> CreateAsync(UserDoctor doctor)
         {
             try
             {
-                await _doctorRepository.Add(doctor);
-                return RedirectToAction("Index");
+               var result = await _doctorService.RegisterDoctor(doctor);
+                if (result)
+                    return RedirectToAction("Index");
+                else
+                    return View(doctor);
             }
             catch(Exception e)
             {

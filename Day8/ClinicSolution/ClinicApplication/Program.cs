@@ -2,6 +2,7 @@ using ClinicApplication.Contexts;
 using ClinicApplication.Interfaces;
 using ClinicApplication.Models;
 using ClinicApplication.Repositories;
+using ClinicApplication.Services;
 using Microsoft.EntityFrameworkCore;
 
 namespace ClinicApplication
@@ -23,6 +24,7 @@ namespace ClinicApplication
             builder.Services.AddScoped<IRepository<int, Doctor>, DoctorRepository>();
             builder.Services.AddScoped<IRepository<string, User>, UserRepository>();
 
+            builder.Services.AddScoped<IDoctorService, DoctorService>();
 
             var app = builder.Build();
 

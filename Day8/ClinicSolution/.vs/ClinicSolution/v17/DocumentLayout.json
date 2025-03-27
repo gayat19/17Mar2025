@@ -3,52 +3,88 @@
   "WorkspaceRootPath": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9F4B1B2-EB55-4594-A0FE-5715CBD368F4}|ClinicTestng\\ClinicTestng.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinictestng\\doctorrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9F4B1B2-EB55-4594-A0FE-5715CBD368F4}|ClinicTestng\\ClinicTestng.csproj|solutionrelative:clinictestng\\doctorrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\contexts\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\contexts\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9F4B1B2-EB55-4594-A0FE-5715CBD368F4}|ClinicTestng\\ClinicTestng.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinictestng\\clinictestng.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F9F4B1B2-EB55-4594-A0FE-5715CBD368F4}|ClinicTestng\\ClinicTestng.csproj|solutionrelative:clinictestng\\clinictestng.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4B1B2-EB55-4594-A0FE-5715CBD368F4}|ClinicTestng\\ClinicTestng.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinictestng\\doctorservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4B1B2-EB55-4594-A0FE-5715CBD368F4}|ClinicTestng\\ClinicTestng.csproj|solutionrelative:clinictestng\\doctorservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F4B1B2-EB55-4594-A0FE-5715CBD368F4}|ClinicTestng\\ClinicTestng.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinictestng\\doctorrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F4B1B2-EB55-4594-A0FE-5715CBD368F4}|ClinicTestng\\ClinicTestng.csproj|solutionrelative:clinictestng\\doctorrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\models\\viewmodels\\userdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\models\\viewmodels\\userdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\contexts\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\contexts\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\exceptions\\useremailduplicateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\exceptions\\useremailduplicateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\clinicapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -57,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day8\\clinicsolution\\clinicapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3DF905A-B5F0-414F-BD83-43941C4BA1BB}|ClinicApplication\\ClinicApplication.csproj|solutionrelative:clinicapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,52 +118,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\appsettings.json",
-              "RelativeDocumentMoniker": "ClinicApplication\\appsettings.json",
-              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\appsettings.json",
-              "RelativeToolTip": "ClinicApplication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-26T12:28:33.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "ClinicApplication\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "ClinicApplication\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T12:28:11.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ClinicTestng",
-              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicTestng\\ClinicTestng.csproj",
-              "RelativeDocumentMoniker": "ClinicTestng\\ClinicTestng.csproj",
-              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicTestng\\ClinicTestng.csproj",
-              "RelativeToolTip": "ClinicTestng\\ClinicTestng.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-26T12:25:10.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\Repositories\\PatientRepository.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "ClinicApplication\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T07:50:02.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "ClinicApplication\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T07:47:26.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "DoctorRepositoryTest.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicTestng\\DoctorRepositoryTest.cs",
               "RelativeDocumentMoniker": "ClinicTestng\\DoctorRepositoryTest.cs",
               "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicTestng\\DoctorRepositoryTest.cs",
               "RelativeToolTip": "ClinicTestng\\DoctorRepositoryTest.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwCsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T12:13:11.5Z",
               "EditorCaption": ""
@@ -144,27 +163,27 @@
               "RelativeDocumentMoniker": "ClinicApplication\\Repositories\\UserRepository.cs",
               "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "ClinicApplication\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAywAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T10:19:41.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "ClinicApplication\\Controllers\\DoctorController.cs",
               "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Controllers\\DoctorController.cs",
               "RelativeToolTip": "ClinicApplication\\Controllers\\DoctorController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAiwDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA1wDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T10:01:18.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "DoctorRepository.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Repositories\\DoctorRepository.cs",
               "RelativeDocumentMoniker": "ClinicApplication\\Repositories\\DoctorRepository.cs",
@@ -172,64 +191,37 @@
               "RelativeToolTip": "ClinicApplication\\Repositories\\DoctorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T07:19:02.287Z",
+              "WhenOpened": "2025-03-26T07:19:02.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "ClinicApplication\\appsettings.json",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\appsettings.json",
+              "RelativeToolTip": "ClinicApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T12:28:33.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Program.cs",
               "RelativeDocumentMoniker": "ClinicApplication\\Program.cs",
               "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Program.cs",
               "RelativeToolTip": "ClinicApplication\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T07:00:29.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClinicContext.cs",
-              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Contexts\\ClinicContext.cs",
-              "RelativeDocumentMoniker": "ClinicApplication\\Contexts\\ClinicContext.cs",
-              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Contexts\\ClinicContext.cs",
-              "RelativeToolTip": "ClinicApplication\\Contexts\\ClinicContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBQAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T04:09:11.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "ClinicApplication\\Repositories\\Repository.cs",
-              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Repositories\\Repository.cs",
-              "RelativeToolTip": "ClinicApplication\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T10:14:46.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "ClinicApplication\\Models\\Doctor.cs",
-              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Models\\Doctor.cs",
-              "RelativeToolTip": "ClinicApplication\\Models\\Doctor.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAowA4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T03:48:56.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Patient.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "ClinicApplication\\Models\\Patient.cs",
@@ -242,20 +234,162 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDoctor.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Models\\ViewModels\\UserDoctor.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\Models\\ViewModels\\UserDoctor.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Models\\ViewModels\\UserDoctor.cs",
+              "RelativeToolTip": "ClinicApplication\\Models\\ViewModels\\UserDoctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:05:32.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Repositories\\Repository.cs",
+              "RelativeToolTip": "ClinicApplication\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:14:46.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\Services\\DoctorService.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Services\\DoctorService.cs",
+              "RelativeToolTip": "ClinicApplication\\Services\\DoctorService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:09:17.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClinicApplication\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "ClinicApplication\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T06:38:37.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicApplication\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "ClinicApplication\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T06:45:48.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\Interfaces\\IDoctorService.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "ClinicApplication\\Interfaces\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:07:54.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorServiceTest.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicTestng\\DoctorServiceTest.cs",
+              "RelativeDocumentMoniker": "ClinicTestng\\DoctorServiceTest.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicTestng\\DoctorServiceTest.cs",
+              "RelativeToolTip": "ClinicTestng\\DoctorServiceTest.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAiwFEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:07:05.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClinicContext.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Contexts\\ClinicContext.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\Contexts\\ClinicContext.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Contexts\\ClinicContext.cs",
+              "RelativeToolTip": "ClinicApplication\\Contexts\\ClinicContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T04:09:11.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserEmailDuplicateException.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Exceptions\\UserEmailDuplicateException.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\Exceptions\\UserEmailDuplicateException.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Exceptions\\UserEmailDuplicateException.cs",
+              "RelativeToolTip": "ClinicApplication\\Exceptions\\UserEmailDuplicateException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:18:44.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Models\\User.cs",
               "RelativeDocumentMoniker": "ClinicApplication\\Models\\User.cs",
               "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Models\\User.cs",
               "RelativeToolTip": "ClinicApplication\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T04:56:56.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\Models\\Doctor.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Models\\Doctor.cs",
+              "RelativeToolTip": "ClinicApplication\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:48:56.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ClinicApplication\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ClinicApplication\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:28:11.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Appointment.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "ClinicApplication\\Models\\Appointment.cs",
@@ -263,13 +397,12 @@
               "RelativeToolTip": "ClinicApplication\\Models\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T06:33:16.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T06:33:16.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ClinicApplication",
+              "DocumentIndex": 21,
+              "Title": "ClinicApplication.csproj",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\ClinicApplication.csproj",
               "RelativeDocumentMoniker": "ClinicApplication\\ClinicApplication.csproj",
               "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day8\\ClinicSolution\\ClinicApplication\\ClinicApplication.csproj",

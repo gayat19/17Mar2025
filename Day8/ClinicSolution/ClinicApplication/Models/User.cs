@@ -14,5 +14,9 @@ namespace ClinicApplication.Models
 
         public Patient? Patient { get; set; }//Navigation property
 
+        public static implicit operator User(Doctor v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
