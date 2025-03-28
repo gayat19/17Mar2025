@@ -18,6 +18,12 @@ namespace ClinicApplication.Controllers
         {
             try
             {
+                //var Name = TempData["Name"];
+                var Name = HttpContext.Session.GetString("Name");   
+                if (Name != null)
+                {
+                    ViewBag.Name = Name;
+                }
                 //var doctors = await _doctorRepository.GetAll();
                 //return View(doctors);
                 return View();
