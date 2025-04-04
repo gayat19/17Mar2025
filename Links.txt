@@ -25,3 +25,5 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods
 
 
 https://swagger.io/
+
+https://docs.sonarsource.com/sonarqube-cloud/

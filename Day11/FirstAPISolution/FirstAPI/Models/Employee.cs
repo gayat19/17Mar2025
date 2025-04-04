@@ -16,5 +16,9 @@ namespace FirstAPI.Models
         public User? User { get; set; }
 
         public Department? Department { get; set; }
+        public List<EmployeeSalary>? EmployeeSalaries { get; set; }
+
+        public string Status { get; set; } = "Active";
+
     }
 }

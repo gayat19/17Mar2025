@@ -1,7 +1,9 @@
 
 using FirstAPI.Contexts;
 using FirstAPI.Interfaces;
+using FirstAPI.Misc;
 using FirstAPI.Models;
+using FirstAPI.Models.DTOs;
 using FirstAPI.Repositories;
 using FirstAPI.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -32,7 +34,7 @@ namespace FirstAPI
                     Scheme = "Bearer",
                     BearerFormat = "JWT",
                     In = ParameterLocation.Header,
-                    Description = "JWT Authorization header using the Bearer scheme. \r\n\r\n Enter 'Bearer' [space] and then your token in the text input below.\r\n\r\nExample: \"Bearer 1safsfsdfdfd\"",
+                    Description = "JWT Authorization header using the Bearer scheme. \r\n\r\n Enter 'Bearer' [space] and then your token in the text input below.\r\n\r\nExample: \"Bearer ",
                 });
                 option.AddSecurityRequirement(new OpenApiSecurityRequirement
                  {
@@ -49,6 +51,8 @@ namespace FirstAPI
                      }
             });
             });
+            builder.Logging.AddLog4Net();
+
 
 
             #region Contexts
@@ -62,17 +66,25 @@ namespace FirstAPI
             builder.Services.AddScoped<IRepository<int, Employee>, EmployeeRepository>();
             builder.Services.AddScoped<IRepository<int, Department>, DepartmentRepository>();
             builder.Services.AddScoped<IRepository<string, User>, UserRepository>();
+            builder.Services.AddScoped<IRepository<int, Salary>, SalaryRepository>();
+            builder.Services.AddScoped<IRepository<int, EmployeeSalary>, EmployeeSalaryRepository>();
             #endregion
 
             #region Mappers
             builder.Services.AddAutoMapper(typeof(Employee));
+            builder.Services.AddAutoMapper(typeof(EmployeeSalary));
+            builder.Services.AddAutoMapper(typeof(Salary));
             #endregion
 
+            #region CustomFilters
+            builder.Services.AddScoped<CustomExceptionFilter>();
+            #endregion
 
             #region Services
             builder.Services.AddScoped<IEmployeeService, EmployeeService>();
             builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
             builder.Services.AddScoped<ITokenService, TokenService>();
+            builder.Services.AddScoped<ISalaryService, SalaryService>();
             #endregion
 
             #region Authentication
