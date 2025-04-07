@@ -5,3 +5,328 @@
 SELECT TOP(1) [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
 FROM [Employees] AS [e]
 WHERE [e].[Id] = @__id_0
+2025-04-07 10:01:03,805 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-04-07 10:01:03,824 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-04-07 10:01:03,827 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Corp\Giosys\Hexaware\17March2025\Participants\Day11\FirstAPISolution\FirstAPI
+2025-04-07 10:01:18,054 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (100ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:21,128 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:21,630 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:22,193 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:22,586 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:22,885 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:23,172 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:23,684 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:24,033 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:24,344 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:24,622 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:24,899 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:25,121 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:25,340 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:25,547 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:25,748 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:25,992 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:26,228 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:26,439 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:32,520 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:32,699 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:32,888 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:33,071 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:33,240 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:33,412 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:33,590 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:33,758 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:33,977 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:01:34,159 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:02:22,345 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-04-07 10:02:22,373 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-04-07 10:02:22,375 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Corp\Giosys\Hexaware\17March2025\Participants\Day11\FirstAPISolution\FirstAPI
+2025-04-07 10:02:31,923 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (96ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:02:33,766 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (2ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:02:34,034 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:02:34,191 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:02:34,433 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]
+2025-04-07 10:02:34,693 [.NET TP Worker] INFO AspNetCoreRateLimit.IpRateLimitMiddleware - Request get:/api/employee from IP ::1 has been blocked, quota 5/1m exceeded by 1. Blocked by rule *, TraceIdentifier 4000002e-0004-fb00-b63f-84710c7967bb. MonitorMode: False
+2025-04-07 10:02:34,901 [.NET TP Worker] INFO AspNetCoreRateLimit.IpRateLimitMiddleware - Request get:/api/employee from IP ::1 has been blocked, quota 5/1m exceeded by 2. Blocked by rule *, TraceIdentifier 4000002f-0004-fb00-b63f-84710c7967bb. MonitorMode: False
+2025-04-07 10:02:35,110 [.NET TP Worker] INFO AspNetCoreRateLimit.IpRateLimitMiddleware - Request get:/api/employee from IP ::1 has been blocked, quota 5/1m exceeded by 3. Blocked by rule *, TraceIdentifier 40000030-0004-fb00-b63f-84710c7967bb. MonitorMode: False
+2025-04-07 10:03:24,096 [.NET TP Worker] INFO AspNetCoreRateLimit.IpRateLimitMiddleware - Request get:/api/employee from IP ::1 has been blocked, quota 5/1m exceeded by 4. Blocked by rule *, TraceIdentifier 40000031-0004-fb00-b63f-84710c7967bb. MonitorMode: False
+2025-04-07 10:03:29,324 [.NET TP Worker] INFO Microsoft.EntityFrameworkCore.Database.Command - Executed DbCommand (4ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [e].[Id], [e].[Age], [e].[Department_Id], [e].[Name], [e].[Phone], [e].[Status]
+FROM (
+    SELECT TOP(1) [d].[Id], [d].[Name]
+    FROM [Departments] AS [d]
+    WHERE [d].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Employees] AS [e] ON [t].[Id] = [e].[Department_Id]
+ORDER BY [t].[Id]

@@ -444,3 +444,5 @@ C:\Users\gayat\OneDrive\Desktop\FirstAPISolution\FirstAPI\obj\Debug\net8.0\refin
 C:\Users\gayat\OneDrive\Desktop\FirstAPISolution\FirstAPI\obj\Debug\net8.0\FirstAPI.pdb
 C:\Users\gayat\OneDrive\Desktop\FirstAPISolution\FirstAPI\obj\Debug\net8.0\FirstAPI.genruntimeconfig.cache
 C:\Users\gayat\OneDrive\Desktop\FirstAPISolution\FirstAPI\obj\Debug\net8.0\ref\FirstAPI.dll
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day11\FirstAPISolution\FirstAPI\bin\Debug\net8.0\AspNetCoreRateLimit.dll
+D:\Corp\Giosys\Hexaware\17March2025\Participants\Day11\FirstAPISolution\FirstAPI\bin\Debug\net8.0\Newtonsoft.Json.dll

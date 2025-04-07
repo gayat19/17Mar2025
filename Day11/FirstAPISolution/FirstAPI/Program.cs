@@ -1,4 +1,5 @@
 
+using AspNetCoreRateLimit;
 using FirstAPI.Contexts;
 using FirstAPI.Interfaces;
 using FirstAPI.Misc;
@@ -54,6 +55,18 @@ namespace FirstAPI
             builder.Logging.AddLog4Net();
 
 
+            #region CORS
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll",
+                    builder =>
+                    {
+                        builder.AllowAnyOrigin()
+                               .AllowAnyMethod()
+                               .AllowAnyHeader();
+                    });
+            });
+            #endregion
 
             #region Contexts
             builder.Services.AddDbContext<EmployeeManagementContext>(options =>
@@ -102,6 +115,13 @@ namespace FirstAPI
                 });
             #endregion
 
+            #region RateLimiting
+            builder.Services.AddMemoryCache();
+            builder.Services.Configure<IpRateLimitOptions>(builder.Configuration.GetSection("IpRateLimiting"));
+            builder.Services.AddInMemoryRateLimiting();
+            builder.Services.AddSingleton<IRateLimitConfiguration, RateLimitConfiguration>();
+            #endregion
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -114,7 +134,7 @@ namespace FirstAPI
             app.UseAuthentication();
             app.UseAuthorization();
 
-
+            app.UseIpRateLimiting();
             app.MapControllers();
 
             app.Run();
