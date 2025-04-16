@@ -2,6 +2,7 @@
 using FirstAPI.Misc;
 using FirstAPI.Models.DTOs;
 using FirstAPI.Services;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,6 +10,7 @@ namespace FirstAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("AllowAll")]
     public class SalaryController : ControllerBase
     {
         private readonly ISalaryService _salaryService;

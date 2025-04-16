@@ -27,3 +27,13 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods
 https://swagger.io/
 
 https://docs.sonarsource.com/sonarqube-cloud/
+
+
+https://react.dev/
+
+https://nodejs.org/en/download
+
+https://code.visualstudio.com/
+
+https://www.telerik.com/blogs/tree-shaking-basics-for-react-applications/
+https://medium.com/@krishnakeshri_30423/tree-shaking-in-react-what-it-is-and-how-to-use-it-afe2178bc40c

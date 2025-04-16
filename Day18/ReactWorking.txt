@@ -1,0 +1,30 @@
+Transpiler -> Converts the Jsx to javaScript
+ const element = <h1>Hello from react</h1>
+
+ const element = React.createElement("h1",null,"Hello from react");
+-----------------------------------------------------------
+ES6,ES5  are transpiled into browser compatible code
+const sayHello = ()=> console.log("Hello");
+
+var sayHello = function(){
+console.log("Hello");
+
+}
+-----------------------------------------------------------------
+
+Vite/Webpack -> imports and exports -> bundles all files into one ore more optimized files
+Tree Shaking -> for deployment
+---------------------------------------------------------------
+
+HTML Loader -> index.html contains -  <div id="root"></div>
+React Dom rendering -> main.jsx -
+createRoot(document.getElementById('root')).render(
+  <StrictMode>
+    <App />
+  </StrictMode>,
+)
+
+Create a Virtual DOM
+diffing - compares to previous Dom
+Reconciliation - only does the update
+

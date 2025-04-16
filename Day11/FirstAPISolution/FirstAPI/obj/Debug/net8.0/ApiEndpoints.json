@@ -26,6 +26,26 @@
     ]
   },
   {
+    "ContainingType": "FirstAPI.Controllers.DepartmentController",
+    "Method": "GetAll",
+    "RelativePath": "api/Department",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "FirstAPI.Models.DTOs.DropDownDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "FirstAPI.Controllers.EmployeeController",
     "Method": "GetEmployees",
     "RelativePath": "api/Employee",

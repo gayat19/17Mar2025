@@ -1,10 +1,11 @@
 ﻿using FirstAPI.Models;
+using FirstAPI.Models.DTOs;
 
 namespace FirstAPI.Interfaces
 {
     public interface IDepartmentService
     {
-        Task<IEnumerable<Department>> GetAll();
-        Task<Department> GetById(int id);
+        Task<DropDownDto> GetAll();
+
     }
 }

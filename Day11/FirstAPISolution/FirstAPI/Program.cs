@@ -61,7 +61,7 @@ namespace FirstAPI
                 options.AddPolicy("AllowAll",
                     builder =>
                     {
-                        builder.AllowAnyOrigin()
+                        builder.WithOrigins("http://localhost:5173")
                                .AllowAnyMethod()
                                .AllowAnyHeader();
                     });
@@ -87,6 +87,7 @@ namespace FirstAPI
             builder.Services.AddAutoMapper(typeof(Employee));
             builder.Services.AddAutoMapper(typeof(EmployeeSalary));
             builder.Services.AddAutoMapper(typeof(Salary));
+            builder.Services.AddAutoMapper(typeof(Department));
             #endregion
 
             #region CustomFilters
@@ -98,6 +99,7 @@ namespace FirstAPI
             builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
             builder.Services.AddScoped<ITokenService, TokenService>();
             builder.Services.AddScoped<ISalaryService, SalaryService>();
+            builder.Services.AddScoped<IDepartmentService, DepartmentService>();
             #endregion
 
             #region Authentication
@@ -129,12 +131,12 @@ namespace FirstAPI
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();
-            }
-
+            }app.UseCors("AllowAll");
+            
             app.UseAuthentication();
             app.UseAuthorization();
 
-            app.UseIpRateLimiting();
+            //app.UseIpRateLimiting();
             app.MapControllers();
 
             app.Run();
