@@ -99,6 +99,26 @@
   },
   {
     "ContainingType": "FirstAPI.Controllers.EmployeeController",
+    "Method": "GetEmployeeLoadData",
+    "RelativePath": "api/Employee/EmployeeLoadData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "FirstAPI.Models.DTOs.EmployeeSearchLoadRequest",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FirstAPI.Controllers.EmployeeController",
     "Method": "GetEmployeesByFilter",
     "RelativePath": "api/Employee/EmployeeSearch",
     "HttpMethod": "POST",

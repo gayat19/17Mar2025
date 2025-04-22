@@ -30,6 +30,19 @@ namespace FirstAPI.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, e.Message);
             }
         }
+        [HttpGet("EmployeeLoadData")]
+        public async Task<ActionResult<EmployeeSearchLoadRequest>> GetEmployeeLoadData()
+        {
+            try
+            {
+                var employeeLoadData = await _employeeService.GetEmployeeLoadData();
+                return Ok(employeeLoadData);
+            }
+            catch (Exception e)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, e.Message);
+            }
+        }
         [HttpPost]
         [Authorize]
         public async Task<ActionResult<CreateEmployeeResponse>> AddEmployee(CreateEmployeeRequest request)

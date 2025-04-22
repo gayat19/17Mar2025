@@ -5,6 +5,7 @@ namespace FirstAPI.Interfaces
 {
     public interface IEmployeeService
     {
+        Task<EmployeeSearchLoadRequest> GetEmployeeLoadData();
         Task<IEnumerable<GetEmployeeResponse>> GetEmployeesByDepartment(int departmentId);
 
         Task<CreateEmployeeResponse> AddEmployee(CreateEmployeeRequest request);

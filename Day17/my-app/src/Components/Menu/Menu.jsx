@@ -22,7 +22,13 @@ export default function Menu(){
                         <Link className="nav-link" to="login">Login</Link>
                     </li>
                     <li className="nav-item">
+                        <Link className="nav-link" to="employees">Employees</Link>
+                    </li>
+                    <li className="nav-item">
                         <Link className="nav-link" to="create">New Employee</Link>
+                    </li>
+                    <li className="nav-item">
+                        <Link className="nav-link" to="logout">Logout</Link>
                     </li>
                 </ul>
             </div>

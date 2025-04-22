@@ -218,5 +218,28 @@ namespace FirstAPI.Services
             employeeResponse.Department = departmentName;
             return employeeResponse;
         }
+
+        public async Task<EmployeeSearchLoadRequest> GetEmployeeLoadData()
+        {
+            var employees = await _employeeRepository.GetAll();
+            if(employees.Count() == 0)
+                throw new Exception("No employees found");
+            var minAge = employees.Min(e => e.Age);
+            var maxAge = employees.Max(e => e.Age);
+            var ageRange = new Models.DTOs.Range
+            {
+                MinValue = minAge,
+                MaxValue = maxAge
+            };
+            var departments = await _departmentRepository.GetAll();
+            if(departments.Count() == 0)
+                throw new Exception("No departments found");
+            var employeeSearchRequest = new EmployeeSearchLoadRequest
+            {
+                EmployeeAgeRange = ageRange,
+                Departments = _mapper.Map<IList<DepartmentDto>>(departments)
+            };
+            return employeeSearchRequest;
+        }
     }
 }

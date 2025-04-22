@@ -11,6 +11,18 @@
       "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\models\\dtos\\employeesearchloadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\models\\dtos\\employeesearchloadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\models\\dtos\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\models\\dtos\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|d:\\corp\\giosys\\hexaware\\17march2025\\participants\\day11\\firstapisolution\\firstapi\\contexts\\employeemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DB9B3F4-3828-426A-9D38-C15AA969C145}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\contexts\\employeemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -130,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,33 +154,56 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "FirstAPI\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:04:14.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRequest.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\EmployeeRequest.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Models\\DTOs\\EmployeeRequest.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\EmployeeRequest.cs",
+              "RelativeToolTip": "FirstAPI\\Models\\DTOs\\EmployeeRequest.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:03:23.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeSearchLoadRequest.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\EmployeeSearchLoadRequest.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Models\\DTOs\\EmployeeSearchLoadRequest.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\EmployeeSearchLoadRequest.cs",
+              "RelativeToolTip": "FirstAPI\\Models\\DTOs\\EmployeeSearchLoadRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:01:48.963Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "FirstAPI\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwC0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwEQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T11:07:50.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SalaryController.cs",
-              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Controllers\\SalaryController.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Controllers\\SalaryController.cs",
-              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Controllers\\SalaryController.cs",
-              "RelativeToolTip": "FirstAPI\\Controllers\\SalaryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:16:37.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Controllers\\DepartmentController.cs",
@@ -176,21 +211,7 @@
               "RelativeToolTip": "FirstAPI\\Controllers\\DepartmentController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAADwvwsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:18:44.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateEmployeeRequest.cs",
-              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\CreateEmployeeRequest.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Models\\DTOs\\CreateEmployeeRequest.cs",
-              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\CreateEmployeeRequest.cs",
-              "RelativeToolTip": "FirstAPI\\Models\\DTOs\\CreateEmployeeRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:08:27.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T11:18:44.639Z"
             },
             {
               "$type": "Document",
@@ -200,14 +221,37 @@
               "RelativeDocumentMoniker": "FirstAPI\\Services\\EmployeeService.cs",
               "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Services\\EmployeeService.cs",
               "RelativeToolTip": "FirstAPI\\Services\\EmployeeService.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAwCgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAN0AAAAAAAAAAAA3wPUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:11:56.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T11:11:56.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "SalaryController.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Controllers\\SalaryController.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Controllers\\SalaryController.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Controllers\\SalaryController.cs",
+              "RelativeToolTip": "FirstAPI\\Controllers\\SalaryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:16:37.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateEmployeeRequest.cs",
+              "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\CreateEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Models\\DTOs\\CreateEmployeeRequest.cs",
+              "ToolTip": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\CreateEmployeeRequest.cs",
+              "RelativeToolTip": "FirstAPI\\Models\\DTOs\\CreateEmployeeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:08:27.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EmployeeManagementContext.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Contexts\\EmployeeManagementContext.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Contexts\\EmployeeManagementContext.cs",
@@ -215,12 +259,11 @@
               "RelativeToolTip": "FirstAPI\\Contexts\\EmployeeManagementContext.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAwCMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:30:19.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T06:30:19.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "AuthenticationController.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Controllers\\AuthenticationController.cs",
@@ -228,12 +271,11 @@
               "RelativeToolTip": "FirstAPI\\Controllers\\AuthenticationController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:08:58.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T11:08:58.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Program.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Program.cs",
@@ -241,12 +283,11 @@
               "RelativeToolTip": "FirstAPI\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAzwIoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:23:42.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T06:23:42.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "DropDownDto.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\DropDownDto.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Models\\DTOs\\DropDownDto.cs",
@@ -254,12 +295,11 @@
               "RelativeToolTip": "FirstAPI\\Models\\DTOs\\DropDownDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:10:00.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T11:10:00.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "IDepartmentService.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Interfaces\\IDepartmentService.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Interfaces\\IDepartmentService.cs",
@@ -267,12 +307,11 @@
               "RelativeToolTip": "FirstAPI\\Interfaces\\IDepartmentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:11:42.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T11:11:42.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Services\\DepartmentService.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Services\\DepartmentService.cs",
@@ -280,12 +319,11 @@
               "RelativeToolTip": "FirstAPI\\Services\\DepartmentService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:12:47.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T11:12:47.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "DepartmentMapper.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Misc\\DepartmentMapper.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Misc\\DepartmentMapper.cs",
@@ -293,12 +331,11 @@
               "RelativeToolTip": "FirstAPI\\Misc\\DepartmentMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:14:38.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T11:14:38.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\Department.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Models\\Department.cs",
@@ -306,12 +343,11 @@
               "RelativeToolTip": "FirstAPI\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:15:41.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T11:15:41.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "SalaryRepository.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Repositories\\SalaryRepository.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Repositories\\SalaryRepository.cs",
@@ -323,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "SalaryMapper.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Misc\\SalaryMapper.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Misc\\SalaryMapper.cs",
@@ -335,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "EmployeeSalaryMapper.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Misc\\EmployeeSalaryMapper.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Misc\\EmployeeSalaryMapper.cs",
@@ -347,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "FirstAPI.csproj",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\FirstAPI.csproj",
               "RelativeDocumentMoniker": "FirstAPI\\FirstAPI.csproj",
@@ -359,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "SalaryService.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Services\\SalaryService.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Services\\SalaryService.cs",
@@ -371,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "CustomExceptionFilter.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Misc\\CustomExceptionFilter.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Misc\\CustomExceptionFilter.cs",
@@ -383,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "SalaryServiceTest.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\EmployeeAPITest\\SalaryServiceTest.cs",
               "RelativeDocumentMoniker": "EmployeeAPITest\\SalaryServiceTest.cs",
@@ -391,12 +427,11 @@
               "RelativeToolTip": "EmployeeAPITest\\SalaryServiceTest.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAiwDwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T11:03:08.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T11:03:08.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\appsettings.json",
               "RelativeDocumentMoniker": "FirstAPI\\appsettings.json",
@@ -408,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "EmployeeSalaryRepository.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Repositories\\EmployeeSalaryRepository.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Repositories\\EmployeeSalaryRepository.cs",
@@ -420,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "log4net.config",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\log4net.config",
               "RelativeDocumentMoniker": "FirstAPI\\log4net.config",
@@ -432,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "ISalaryService.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Interfaces\\ISalaryService.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Interfaces\\ISalaryService.cs",
@@ -444,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "ErrorObject.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\ErrorObject.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Models\\DTOs\\ErrorObject.cs",
@@ -456,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "AssignSalaryResponse.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\AssignSalaryResponse.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Models\\DTOs\\AssignSalaryResponse.cs",
@@ -468,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "EmployeeSalaryRequest.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\EmployeeSalaryRequest.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Models\\DTOs\\EmployeeSalaryRequest.cs",
@@ -480,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "SalaryResponse.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\DTOs\\SalaryResponse.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Models\\DTOs\\SalaryResponse.cs",
@@ -492,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "EmployeeSalary.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\EmployeeSalary.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Models\\EmployeeSalary.cs",
@@ -504,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Salary.cs",
               "DocumentMoniker": "D:\\Corp\\Giosys\\Hexaware\\17March2025\\Participants\\Day11\\FirstAPISolution\\FirstAPI\\Models\\Salary.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Models\\Salary.cs",
